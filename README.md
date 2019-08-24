@@ -1,1 +1,1 @@
-# Computer-Graphics-Exercises
+# Computer Graphics Exercises
